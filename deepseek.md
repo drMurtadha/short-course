@@ -107,9 +107,9 @@ In summary, DeepSeek is a company that aims to leverage AI’s potential to solv
     <a href="https://github.com/drMurtadha" target="_blank">
         <img alt="GitHub" src="https://img.shields.io/badge/-@drMurtadha-181717?style=flat-square&logo=GitHub&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/mohd-murtadha-mohamad" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/-mohd-murtadha-mohamad-blue?style=flat-square&logo=Linkedin&logoColor=white">
-    </a>
+  <a href="https://www.linkedin.com/in/mohd-murtadha-mohamad" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-Mohd%20Murtadha%20Mohamad-blue?style=flat-square&logo=Linkedin&logoColor=white">
+</a>
     <a href="mailto:murtadha@utm.my" target="_blank">
         <img alt="Email" src="https://img.shields.io/badge/-murtadha@utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white">
     </a>
