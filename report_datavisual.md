@@ -3,7 +3,7 @@ Here are the three markdown-ready prompts that you can copy and use directly for
 Prompt 1: AI-assisted Report Creation (DOCX)
 
 # AI-Assisted Report Creation & Data Visualization (DOCX)
-
+```
 Generate a comprehensive, well-structured report in **DOCX format** titled **"AI-Assisted Report Creation & Data Visualization."** The report should include the following sections:
 
 1. **Introduction** – Overview of AI in report generation.  
@@ -18,11 +18,11 @@ Generate a comprehensive, well-structured report in **DOCX format** titled **"AI
 - At least one **embedded data visualization image**.
 - Well-formatted for readability (font sizes, spacing, and alignment).
 - The final output should be available as a downloadable **.DOCX file**.
-
+````
 Prompt 2: AI-powered Presentation (PPTX)
 
 # AI-Assisted Report Creation & Data Visualization (PPTX)
-
+```
 Create a **PowerPoint presentation (PPTX)** titled **"AI-Assisted Report Creation & Data Visualization."** The slides should include:
 
 1. **Title Slide** – Course title, subtitle, and speaker details.  
@@ -38,11 +38,11 @@ Create a **PowerPoint presentation (PPTX)** titled **"AI-Assisted Report Creatio
 - At least one **AI-generated chart or diagram**.
 - Engaging **design elements** (icons, images, and proper spacing).
 - The final output should be available as a downloadable **.PPTX file**.
-
+```
 Prompt 3: AI-generated Data Report (XLSX)
 
 # AI-Assisted Data Report & Visualization (XLSX)
-
+```
 Generate an **Excel spreadsheet (XLSX)** titled **"AI-Assisted Data Report & Visualization."** The file should include:
 
 1. **Raw Data Sheet** – A dataset with AI-generated structured data (e.g., sales, performance metrics, survey results).  
@@ -55,7 +55,7 @@ Generate an **Excel spreadsheet (XLSX)** titled **"AI-Assisted Data Report & Vis
 - **Conditional formatting** to highlight key insights.
 - **Formulas and functions** where necessary (e.g., SUM, AVERAGE, COUNTIF).
 - The final output should be available as a downloadable **.XLSX file**.
-
+```
 ✅ Copy & Use These Prompts!
 	•	These are fully markdown-compatible and structured for copy-paste use.
 	•	They provide clear instructions for AI to generate professional, formatted, and structured reports in DOCX, PPTX, and XLSX formats.
